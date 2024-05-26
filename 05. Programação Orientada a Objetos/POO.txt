@@ -1,0 +1,19 @@
+# Classe: representa uma ideia ou conceito e classifica objetos que tenham propriedades similares.
+
+# Instâncias de Classes: ocorrência específica de uma classe
+
+# A programação orientada a objetos (POO) é um paradigma de programação que se baseia no conceito de "objetos", os quais representam entidades do mundo real que possuem características (atributos) e comportamentos (métodos).
+
+# Atributos (características): tamanho, nome, largura, etc.
+# Métodos (ações e funcionalidade): escrever, pegar, selecionar, etc.
+
+
+Os principais princípios da programação orientada a objetos incluem:
+
+Encapsulamento: É o conceito de agrupar dados e os métodos que operam nesses dados em uma única unidade chamada "objeto". O encapsulamento ajuda a ocultar a complexidade e proteger os dados dentro do objeto, permitindo que apenas os métodos autorizados acessem e modifiquem esses dados.
+
+Herança: É a capacidade de uma classe (ou objeto) herdar características e comportamentos de outra classe pai (ou objeto pai). Isso promove a reutilização de código e ajuda a organizar hierarquias de classes relacionadas.
+
+Polimorfismo: É a capacidade de um objeto responder de maneira diferente a mensagens ou chamadas de método, dependendo do tipo ou contexto em que está sendo usado. Isso permite que diferentes objetos compartilhem o mesmo nome de método, mas implementem comportamentos específicos para suas próprias classes.
+
+Abstração: É o processo de identificar os aspectos essenciais de um objeto do mundo real e representá-los de forma simplificada em um modelo de programação. A abstração ajuda a concentrar-se nos detalhes relevantes e ignorar os detalhes irrelevantes, facilitando o desenvolvimento e a compreensão do software.
